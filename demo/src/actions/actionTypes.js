@@ -1,0 +1,1 @@
+export const LOAD_JOKE_SUCCESS = 'LOAD_JOKE_SUCCESS'
